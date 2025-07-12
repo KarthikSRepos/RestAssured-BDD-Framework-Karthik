@@ -1,0 +1,6 @@
+com\RestAssured\pojo\AddPlace.class
+com\RestAssured\pojo\Location.class
+com\RestAssured\pojo\DeletePlace.class
+com\RestAssured\Resources\DeletePlaceAPI.class
+com\RestAssured\Resources\EnumResources.class
+com\RestAssured\Resources\AddPlaceAPI.class
